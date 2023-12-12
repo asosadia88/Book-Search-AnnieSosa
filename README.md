@@ -40,6 +40,11 @@ The Google Search API features the following technologies:
 
 
 ## Contributions
-N/A
+The successful implementation of this project, meeting all acceptance criteria, is attributed to the instructor, TAs, tutors (program and private), and the collaborative efforts of my classmates.
+
+Resources from the following platforms contributed to the design and functionality of the application:
+- YouTube
+- W3 Schools
+
 
 
